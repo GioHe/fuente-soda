@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+div#logotipo {
+    width: 100%;
+}
+
+div#logotipo img {
+    float: left;
+    margin-right: 20px;
+}
+
+div#logotipo h1 {
+    float: left;
+}
+
+div.columna-1,
+div.columna-2,
+div.columna-3 {
+
+    width: 33%;
+    float: left;
+}
+
+div.columna-2 {
+    background-color: lightblue;
+}
+
+div.testimonio {
+    padding: 30px;
+    text-align: center;
+}
+
+#retrato {
+    height: 100px;
+    width: 100px;
+}
+
+div.clearfix {
+    clear: both;
+}
+
