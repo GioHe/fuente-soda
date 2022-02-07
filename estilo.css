@@ -32,9 +32,8 @@ div.testimonio {
     text-align: center;
 }
 
-#retrato {
-    height: 100px;
-    width: 100px;
+.retrato {
+    height: 150px;
 }
 
 div.clearfix {
