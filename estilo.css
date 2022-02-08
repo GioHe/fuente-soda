@@ -6,9 +6,10 @@ div#logotipo {
     width: 100%;
 }
 
-div#logotipo img {
+div#logotipo {
     float: left;
     margin-right: 20px;
+    
 }
 
 div#logotipo h1 {
