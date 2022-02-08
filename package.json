@@ -1,0 +1,22 @@
+{
+  "name": "fuente-soda",
+  "version": "1.0.0",
+  "description": "Esta es la página de Fuente de Soda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GioHe/fuente-soda.git"
+  },
+  "author": "Giovanna Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GioHe/fuente-soda/issues"
+  },
+  "homepage": "https://github.com/GioHe/fuente-soda#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
