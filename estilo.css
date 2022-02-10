@@ -2,3 +2,12 @@
     width: 25%;
     height: 25%;
 }
+
+img.testimonio {
+    height: 150px;
+}
+
+section#testimonios {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
